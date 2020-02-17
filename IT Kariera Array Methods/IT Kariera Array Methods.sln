@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT Kariera Array Methods", "IT Kariera Array Methods.csproj", "{4C7CE256-57AC-44C7-9159-4DC6E5D9798C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "..\test\test.csproj", "{4658A012-E0FF-4055-BF0D-D18C5457A0C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C7CE256-57AC-44C7-9159-4DC6E5D9798C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7CE256-57AC-44C7-9159-4DC6E5D9798C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7CE256-57AC-44C7-9159-4DC6E5D9798C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7CE256-57AC-44C7-9159-4DC6E5D9798C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4658A012-E0FF-4055-BF0D-D18C5457A0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4658A012-E0FF-4055-BF0D-D18C5457A0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4658A012-E0FF-4055-BF0D-D18C5457A0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4658A012-E0FF-4055-BF0D-D18C5457A0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6173355-9C92-49FD-B74F-5C1A22978128}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\IT Kariera Array Methods\bin\Debug\IT Kariera Array Methods.exe.config
+C:\Users\User\source\repos\IT Kariera Array Methods\bin\Debug\IT Kariera Array Methods.exe
+C:\Users\User\source\repos\IT Kariera Array Methods\bin\Debug\IT Kariera Array Methods.pdb
+C:\Users\User\source\repos\IT Kariera Array Methods\obj\Debug\IT Kariera Array Methods.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IT Kariera Array Methods\obj\Debug\IT Kariera Array Methods.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IT Kariera Array Methods\obj\Debug\IT Kariera Array Methods.exe
+C:\Users\User\source\repos\IT Kariera Array Methods\obj\Debug\IT Kariera Array Methods.pdb
