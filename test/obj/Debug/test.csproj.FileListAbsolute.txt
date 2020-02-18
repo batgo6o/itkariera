@@ -5,3 +5,9 @@ C:\Users\User\source\repos\test\obj\Debug\test.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\test\obj\Debug\test.exe
 C:\Users\User\source\repos\test\obj\Debug\test.pdb
 C:\Users\User\source\repos\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Dimitar Todorov\Downloads\itkariera-master\itkariera-master\test\bin\Debug\test.exe.config
+C:\Users\Dimitar Todorov\Downloads\itkariera-master\itkariera-master\test\bin\Debug\test.exe
+C:\Users\Dimitar Todorov\Downloads\itkariera-master\itkariera-master\test\bin\Debug\test.pdb
+C:\Users\Dimitar Todorov\Downloads\itkariera-master\itkariera-master\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Dimitar Todorov\Downloads\itkariera-master\itkariera-master\test\obj\Debug\test.exe
+C:\Users\Dimitar Todorov\Downloads\itkariera-master\itkariera-master\test\obj\Debug\test.pdb
