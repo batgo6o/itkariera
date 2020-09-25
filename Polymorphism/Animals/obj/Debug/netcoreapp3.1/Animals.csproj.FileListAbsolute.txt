@@ -1,0 +1,11 @@
+/home/todorov/Documents/Polymorphism/Animals/obj/Debug/netcoreapp3.1/Animals.csprojAssemblyReference.cache
+/home/todorov/Documents/Polymorphism/Animals/obj/Debug/netcoreapp3.1/Animals.AssemblyInfoInputs.cache
+/home/todorov/Documents/Polymorphism/Animals/obj/Debug/netcoreapp3.1/Animals.AssemblyInfo.cs
+/home/todorov/Documents/Polymorphism/Animals/bin/Debug/netcoreapp3.1/Animals
+/home/todorov/Documents/Polymorphism/Animals/bin/Debug/netcoreapp3.1/Animals.deps.json
+/home/todorov/Documents/Polymorphism/Animals/bin/Debug/netcoreapp3.1/Animals.runtimeconfig.json
+/home/todorov/Documents/Polymorphism/Animals/bin/Debug/netcoreapp3.1/Animals.runtimeconfig.dev.json
+/home/todorov/Documents/Polymorphism/Animals/bin/Debug/netcoreapp3.1/Animals.dll
+/home/todorov/Documents/Polymorphism/Animals/bin/Debug/netcoreapp3.1/Animals.pdb
+/home/todorov/Documents/Polymorphism/Animals/obj/Debug/netcoreapp3.1/Animals.dll
+/home/todorov/Documents/Polymorphism/Animals/obj/Debug/netcoreapp3.1/Animals.pdb
