@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace IEnumerableFirst
 {
@@ -6,7 +7,15 @@ namespace IEnumerableFirst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<string> students = new List<string>();
+            students.Add("Sirenhead");
+            students.Add("Kondio");
+            students.Add("Paco");
+            CustomCollection customStudents = new CustomCollection(students);
+            foreach (var item in customStudents)
+            {
+                System.Console.WriteLine(item);
+            }
         }
     }
 }

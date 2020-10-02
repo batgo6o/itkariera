@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/todorov/c#/Iteratables/IEnumerableFirst/IEnumerableFirst.csproj": {}
+    "/home/todorov/Documents/itkariera/Iteratables/IEnumerableFirst/IEnumerableFirst.csproj": {}
   },
   "projects": {
-    "/home/todorov/c#/Iteratables/IEnumerableFirst/IEnumerableFirst.csproj": {
+    "/home/todorov/Documents/itkariera/Iteratables/IEnumerableFirst/IEnumerableFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/todorov/c#/Iteratables/IEnumerableFirst/IEnumerableFirst.csproj",
+        "projectUniqueName": "/home/todorov/Documents/itkariera/Iteratables/IEnumerableFirst/IEnumerableFirst.csproj",
         "projectName": "IEnumerableFirst",
-        "projectPath": "/home/todorov/c#/Iteratables/IEnumerableFirst/IEnumerableFirst.csproj",
+        "projectPath": "/home/todorov/Documents/itkariera/Iteratables/IEnumerableFirst/IEnumerableFirst.csproj",
         "packagesPath": "/home/todorov/.nuget/packages/",
-        "outputPath": "/home/todorov/c#/Iteratables/IEnumerableFirst/obj/",
+        "outputPath": "/home/todorov/Documents/itkariera/Iteratables/IEnumerableFirst/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/todorov/.nuget/NuGet/NuGet.Config"
