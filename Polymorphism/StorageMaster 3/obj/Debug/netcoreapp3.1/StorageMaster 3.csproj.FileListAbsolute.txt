@@ -9,8 +9,3 @@
 /home/todorov/Documents/Polymorphism/StorageMaster 3/bin/Debug/netcoreapp3.1/StorageMaster 3.pdb
 /home/todorov/Documents/Polymorphism/StorageMaster 3/obj/Debug/netcoreapp3.1/StorageMaster 3.dll
 /home/todorov/Documents/Polymorphism/StorageMaster 3/obj/Debug/netcoreapp3.1/StorageMaster 3.pdb
-/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/obj/Debug/netcoreapp3.1/StorageMaster 3.csprojAssemblyReference.cache
-/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/obj/Debug/netcoreapp3.1/StorageMaster 3.AssemblyInfoInputs.cache
-/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/obj/Debug/netcoreapp3.1/StorageMaster 3.AssemblyInfo.cs
-/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/obj/Debug/netcoreapp3.1/StorageMaster 3.dll
-/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/obj/Debug/netcoreapp3.1/StorageMaster 3.pdb

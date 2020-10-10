@@ -6,7 +6,7 @@ namespace StorageMaster_3.BaseEntities
         private double price;
         private double weight;
 
-        protected Product(double price, double weight)
+        public Product(double price, double weight)
         {
             this.price = price;
             this.weight = weight;

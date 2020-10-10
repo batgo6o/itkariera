@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/todorov/Documents/c#/itkariera/Polymorphism/Animals/Animals.csproj",
+      "projectUniqueName": "/home/todorov/Documents/Polymorphism/Animals/Animals.csproj",
       "projectName": "Animals",
-      "projectPath": "/home/todorov/Documents/c#/itkariera/Polymorphism/Animals/Animals.csproj",
+      "projectPath": "/home/todorov/Documents/Polymorphism/Animals/Animals.csproj",
       "packagesPath": "/home/todorov/.nuget/packages/",
-      "outputPath": "/home/todorov/Documents/c#/itkariera/Polymorphism/Animals/obj/",
+      "outputPath": "/home/todorov/Documents/Polymorphism/Animals/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/todorov/.nuget/NuGet/NuGet.Config"

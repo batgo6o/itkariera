@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/StorageMaster 3.csproj": {}
+    "/home/todorov/Documents/Polymorphism/StorageMaster 3/StorageMaster 3.csproj": {}
   },
   "projects": {
-    "/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/StorageMaster 3.csproj": {
+    "/home/todorov/Documents/Polymorphism/StorageMaster 3/StorageMaster 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/StorageMaster 3.csproj",
+        "projectUniqueName": "/home/todorov/Documents/Polymorphism/StorageMaster 3/StorageMaster 3.csproj",
         "projectName": "StorageMaster 3",
-        "projectPath": "/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/StorageMaster 3.csproj",
+        "projectPath": "/home/todorov/Documents/Polymorphism/StorageMaster 3/StorageMaster 3.csproj",
         "packagesPath": "/home/todorov/.nuget/packages/",
-        "outputPath": "/home/todorov/Documents/c#/itkariera/Polymorphism/StorageMaster 3/obj/",
+        "outputPath": "/home/todorov/Documents/Polymorphism/StorageMaster 3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/todorov/.nuget/NuGet/NuGet.Config"

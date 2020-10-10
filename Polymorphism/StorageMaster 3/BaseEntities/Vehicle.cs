@@ -11,7 +11,7 @@ namespace StorageMaster_3.BaseEntities
         private bool isEmpty;
         private double capacityLeft;
 
-        protected Vehicle(int capacityInput)
+        public Vehicle(int capacityInput)
         {
             capacity = capacityInput;
             capacityLeft = capacity;
